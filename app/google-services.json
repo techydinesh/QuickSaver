@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059950564551",
+    "project_id": "quick-saver-215ff",
+    "storage_bucket": "quick-saver-215ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059950564551:android:5a1a90993ba469ee955ae2",
+        "android_client_info": {
+          "package_name": "com.techydinesh.quicksaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059950564551-k3ik3dlbqjd1o64o4lcrfto3ca1bmd4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwuc5zel3bynfOytdBokJqEWdPo_5DHTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059950564551-k3ik3dlbqjd1o64o4lcrfto3ca1bmd4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

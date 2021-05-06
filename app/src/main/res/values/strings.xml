@@ -11,9 +11,14 @@
 
 
     <!--AdMob Id-->
-    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <!--<string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
     <string name="admob_banner_ad" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="admob_interstitial_ad" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    This is Test Admob Ad
+    -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-4339831826446133~5159043241</string>
+    <string name="admob_banner_ad" translatable="false">ca-app-pub-4339831826446133/6328654685</string>
+    <string name="admob_interstitial_ad" translatable="false">ca-app-pub-4339831826446133/7597983254</string>
 
 
 

@@ -40,5 +40,20 @@
         android:textColor="@color/colorPrimaryDark"/>
 
     </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="22dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="23dp"
+        android:fontFamily="monospace"
+        android:text="TechyDinesh Pvt Ltd v1.0.0"
+        android:textColor="#673AB7" />
 </RelativeLayout>
 
